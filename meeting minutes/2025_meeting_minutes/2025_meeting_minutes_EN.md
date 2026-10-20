@@ -109,9 +109,9 @@ Discussions covered the classification and label system, data processing and per
 ### III. Discussion on Data Acquisition (Wang Yehui, Zhang Shengxiang)
 The situation of data acquisition from Gitee was discussed. It was noted that full-network data was obtained through Gitee last year. It is proposed that this year's data should maintain consistency, and a unified platform acquisition plan is required. Further discussions are expected next week.
 ### IV. Pending Issues
-1.Supplement and improve based on the three-tier domain classification provided by Wang Lei. (Person in Charge: Li Shengbao; Completion Date: Before November 25, 2015)
+1.Supplement and improve based on the three-tier domain classification provided by Wang Lei. (Person in Charge: Li Shengbao; Completion Date: Before November 25, 2025)
 
-2.An accuracy issue was encountered when using the Gitee AI large model for domain classification. Seek support from Li Shengbao to resolve it, provide sampled examples of domain classification, and evaluate the rationality of the domain classification based on expert experience. (Person in Charge: Wang Lei; Completion Date: Before November 25, 2015)
+2.An accuracy issue was encountered when using the Gitee AI large model for domain classification. Seek support from Li Shengbao to resolve it, provide sampled examples of domain classification, and evaluate the rationality of the domain classification based on expert experience. (Person in Charge: Wang Lei; Completion Date: Before November 25, 2025)
 
 
 # 2025-11-11 Weekly Meeting Minutes of OSS Compass Community
